@@ -1,1 +1,0 @@
-import{_ as a,c as t,a as r,o as s}from"./index-BWcMTDfT.js";const n={};function o(c,e){return s(),t("div",null,e[0]||(e[0]=[r("h1",{class:"text-4xl"},"Vista privada de administrador",-1)]))}const i=a(n,[["render",o]]);export{i as default};
