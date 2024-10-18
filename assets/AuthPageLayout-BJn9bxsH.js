@@ -1,1 +1,0 @@
-import{_ as t,c as o,b as c,o as n,r}from"./index-B0ngy5Xi.js";const a={},s={class:"container-fluid h-screen bg-slate-100 grid gap-10 place-content-center py-14"};function _(i,l){const e=r("RouterView");return n(),o("main",s,[c(e)])}const u=t(a,[["render",_]]);export{u as default};

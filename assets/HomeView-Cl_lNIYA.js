@@ -1,1 +1,0 @@
-import{_ as t,c as s,a as c,o as n}from"./index-B0ngy5Xi.js";const o={},r={class:"h-screen place-content-center text-center"};function a(l,e){return n(),s("div",r,e[0]||(e[0]=[c("h1",{class:"text-6xl"},"Bienvenido a Olympus GYM",-1)]))}const i=t(o,[["render",a]]);export{i as default};
