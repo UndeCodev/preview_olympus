@@ -1,0 +1,1 @@
+import{_ as s,c as t,a as r,o}from"./index-t55ouYIW.js";const a={};function n(c,e){return o(),t("div",null,e[0]||(e[0]=[r("h1",{class:"text-4xl"},"Gestión de usuarios",-1)]))}const i=s(a,[["render",n]]);export{i as default};
