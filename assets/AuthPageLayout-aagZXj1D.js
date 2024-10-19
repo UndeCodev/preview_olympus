@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as t,a as n,o as c,r}from"./index-Conoth6Z.js";const a={},s={class:"container min-h-screen grid gap-10 place-content-center mx-auto"};function _(i,m){const e=r("RouterView");return c(),t("main",s,[n(e)])}const f=o(a,[["render",_]]);export{f as default};

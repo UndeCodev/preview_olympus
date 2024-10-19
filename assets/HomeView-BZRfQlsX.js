@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,h as s,o as c}from"./index-Conoth6Z.js";const n={},r={class:"h-screen place-content-center text-center"};function a(i,e){return c(),o("div",r,e[0]||(e[0]=[s("h1",{class:"text-6xl"},"Bienvenido a Olympus GYM",-1)]))}const m=t(n,[["render",a]]);export{m as default};
