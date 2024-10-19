@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c,h as o,o as n}from"./index-qKey4Usj.js";const s={},r={class:"h-screen place-content-center text-center"};function a(_,e){return n(),c("div",r,e[0]||(e[0]=[o("h1",{class:"text-6xl"},"Página de contacto",-1)]))}const d=t(s,[["render",a]]);export{d as default};

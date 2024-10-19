@@ -1,1 +1,0 @@
-import{_ as s}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as r,h as t,o}from"./index-EW2AkV8D.js";const n={};function a(c,e){return o(),r("div",null,e[0]||(e[0]=[t("h1",{class:"text-4xl"},"Gestión de usuarios",-1)]))}const f=s(n,[["render",a]]);export{f as default};
