@@ -1,0 +1,1 @@
+import{_ as s,c as t,h as r,o}from"./index-DFWwSDKG.js";const n={};function a(c,e){return o(),t("div",null,e[0]||(e[0]=[r("h1",{class:"text-4xl"},"Gestión de usuarios",-1)]))}const i=s(n,[["render",a]]);export{i as default};

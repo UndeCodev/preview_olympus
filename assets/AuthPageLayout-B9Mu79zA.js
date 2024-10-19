@@ -1,0 +1,1 @@
+import{_ as o,c as t,a as n,o as c,r as a}from"./index-DFWwSDKG.js";const r={},s={class:"container min-h-screen grid gap-10 place-content-center mx-auto"};function _(i,m){const e=a("RouterView");return c(),t("main",s,[n(e)])}const u=o(r,[["render",_]]);export{u as default};
