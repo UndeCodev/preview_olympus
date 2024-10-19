@@ -1,1 +1,0 @@
-import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c,h as s,o}from"./index-Df20Fvi5.js";const r={},n={class:"h-screen place-content-center text-center"};function a(l,e){return o(),c("div",n,e[0]||(e[0]=[s("h1",{class:"text-6xl"},"Acerca de Olympus GYM",-1)]))}const f=t(r,[["render",a]]);export{f as default};
