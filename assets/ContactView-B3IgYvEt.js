@@ -1,1 +1,0 @@
-import{_ as t,g as c,h as n,o}from"./index-CSTKgCyW.js";const s={},a={class:"h-screen place-content-center text-center"};function r(_,e){return o(),c("div",a,e[0]||(e[0]=[n("h1",{class:"text-6xl"},"Página de contacto",-1)]))}const d=t(s,[["render",r]]);export{d as default};
