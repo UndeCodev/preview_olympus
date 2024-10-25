@@ -1,1 +1,0 @@
-import{_ as o,g as n,l as t,o as r,r as c}from"./index-rJ-izXVI.js";const a={};function s(_,l){const e=c("RouterView");return r(),n("main",null,[t(e)])}const i=o(a,[["render",s]]);export{i as default};
