@@ -1,0 +1,1 @@
+import{_ as o,a as n,i as t,o as r,r as c}from"./index-JSM4PwRk.js";const a={};function s(_,i){const e=c("RouterView");return r(),n("main",null,[t(e)])}const l=o(a,[["render",s]]);export{l as default};
